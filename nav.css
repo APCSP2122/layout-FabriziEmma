@@ -1,0 +1,17 @@
+nav {background-color: lightYellow;
+flex-grow: 1;
+}
+nav ul{display: flex;
+justify-content: space-around;
+list-style-type: none;
+padding: 5px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.logo{
+    flex-grow: 1;
+}
+.profile{
+    flex-grow: 1;
+}
