@@ -8,6 +8,8 @@ html {
 body {
     color: #000;
     font-size:2.5rem;
+    margin: 0px;
+    text-align: center;
 }
 
 
@@ -20,7 +22,7 @@ header {
      display: flex;
      justify-content: space-between;  /*Moves items along Main Axis*/
      align-items: center;
-     
+     font-size: 2rem;
 }
 
 
@@ -42,6 +44,7 @@ footer {
      border: 10px solid Orange;
      margin: 50px;
       padding: 50px;
+      text-align: center;
 }
 
 
